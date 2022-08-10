@@ -1,0 +1,10 @@
+﻿  Application.cpp
+C:\dev\imgui\examples\example_win32_directx10\Application.cpp(16,32): warning C4459: 'landPrice' 선언은 전역 선언을 숨깁니다.
+C:\dev\imgui\examples\example_win32_directx10\player.h(4,12): message : 'landPrice' 선언을 참조하십시오.
+C:\dev\imgui\examples\example_win32_directx10\Application.cpp(17,33): warning C4459: 'hotelPrice' 선언은 전역 선언을 숨깁니다.
+C:\dev\imgui\examples\example_win32_directx10\player.h(5,12): message : 'hotelPrice' 선언을 참조하십시오.
+C:\dev\imgui\examples\example_win32_directx10\Application.cpp(18,31): warning C4459: 'landToll' 선언은 전역 선언을 숨깁니다.
+C:\dev\imgui\examples\example_win32_directx10\player.h(6,12): message : 'landToll' 선언을 참조하십시오.
+C:\dev\imgui\examples\example_win32_directx10\Application.cpp(19,31): warning C4459: 'hotelFee' 선언은 전역 선언을 숨깁니다.
+C:\dev\imgui\examples\example_win32_directx10\player.h(7,12): message : 'hotelFee' 선언을 참조하십시오.
+  example_win32_directx10.vcxproj -> C:\dev\imgui\examples\example_win32_directx10\Debug\example_win32_directx10.exe

@@ -24,6 +24,10 @@
     <ClInclude Include="..\..\backends\imgui_impl_win32.h">
       <Filter>sources</Filter>
     </ClInclude>
+    <ClInclude Include="Application.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="Land.h" />
+    <ClInclude Include="goldKey.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\imgui.cpp">
@@ -50,6 +54,10 @@
     <ClCompile Include="..\..\imgui_widgets.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
+    <ClCompile Include="Application.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="Land.cpp" />
+    <ClCompile Include="goldKey.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.txt" />
